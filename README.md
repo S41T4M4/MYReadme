@@ -1,12 +1,16 @@
-👋 Welcome to my GitHub profile! 🚀
+About Me
+My name is Vitor Ibraim, i have 20 years old and i Live in Brazil.
 
-I'm a passionate Brazilian developer currently working as a trainee at a Fintech company. My coding journey spans across various languages and technologies, including C#, Java, HTML, CSS, JavaScript, Python, Groovy, and good ol' C.
+I am passionate about programming and technology, always eager to learn and explore new horizons in the tech world. With a strong foundation in version control (Git) and continuous integration/continuous deployment (Jenkins CI/CD), I strive to create seamless and efficient development workflows.
 
-In my role, I've gained hands-on experience in building robust software solutions and automation tools. I'm particularly adept at crafting automated tests using Selenium and NUnit, ensuring the quality and reliability of our applications.
+My skill set includes:
 
-One of my proud achievements is a solo project I developed for my company, demonstrating my ability to deliver innovative solutions independently.
+Automated Testing Frameworks: Cypress, Selenium
+Programming Languages: Python, C#, JavaScript
+Databases: PostgreSQL, SQL
+Frameworks: Vue.js, Manim
+Front-End: Basic knowledge of HTML and CSS
+I started my career as an Automated Test Developer and am currently working as a C# Developer. One of my notable achievements is independently creating an automated testing project using Cypress and successfully implementing it into my company's Jenkins pipeline.
 
-I'm well-versed in version control systems like GitLab and have a knack for managing repositories efficiently. I've also been delving into the world of continuous integration and continuous deployment (CI/CD) pipelines, honing my skills in Jenkins and exploring ways to streamline our development processes.
-
-Here on GitHub, you'll find a collection of my projects, ranging from personal experiments to contributions to open-source initiatives. Feel free to explore, contribute, or reach out for collaboration opportunities. Let's code something amazing together! 💻✨
+My journey in the tech industry has been fueled by a love for physics and mathematics, and a commitment to continuous self-improvement. Additionally, I am an advanced English speaker and a self-taught enthusiast, always seeking new challenges and opportunities to grow.
 
