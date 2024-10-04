@@ -1,16 +1,11 @@
 About Me
-My name is Vitor Ibraim, i have 20 years old and i Live in Brazil.
+Hi, I'm Vitor Ibraim! I'm 20 years old, from Brazil, and currently working as a Software Development Intern. I’m a self-taught learner with a passion for physics and mathematics, which fuels my drive to solve complex problems and build innovative solutions.
 
-I am passionate about programming and technology, always eager to learn and explore new horizons in the tech world. With a strong foundation in version control (Git) and continuous integration/continuous deployment (Jenkins CI/CD), I strive to create seamless and efficient development workflows.
+In my role, I initially developed and implemented automated tests to streamline the company’s workflow, using Cypress and Jenkins. Later, I transitioned to development, where I built two complete applications from backend to frontend. Currently, I’m exploring RabbitMQ and Docker to enhance our system’s capabilities and workflow.
 
-My skill set includes:
-
-Automated Testing Frameworks: Cypress, Selenium
-Programming Languages: Python, C#, JavaScript
-Databases: PostgreSQL, SQL
-Frameworks: Vue.js, Manim
-Front-End: Basic knowledge of HTML and CSS
-I started my career as an Automated Test Developer and am currently working as a C# Developer. One of my notable achievements is independently creating an automated testing project using Cypress and successfully implementing it into my company's Jenkins pipeline.
-
-My journey in the tech industry has been fueled by a love for physics and mathematics, and a commitment to continuous self-improvement. Additionally, I am an advanced English speaker and a self-taught enthusiast, always seeking new challenges and opportunities to grow.
-
+Skills and Tools
+Languages & Frameworks: JavaScript, TypeScript, C#, PostgreSQL, Angular, React, Vue.js, Python, jQuery
+Automation & CI/CD: Cypress, Selenium, Jenkins
+Containerization: Docker
+Other: Unit Testing, RabbitMQ (in progress)
+Thank you for visiting my profile!
